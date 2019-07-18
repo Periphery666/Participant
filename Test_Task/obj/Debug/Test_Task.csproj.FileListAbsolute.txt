@@ -1,0 +1,6 @@
+D:\Работа\Test_Task\Test_Task\bin\Debug\Test_Task.exe.config
+D:\Работа\Test_Task\Test_Task\bin\Debug\Test_Task.exe
+D:\Работа\Test_Task\Test_Task\bin\Debug\Test_Task.pdb
+D:\Работа\Test_Task\Test_Task\obj\Debug\Test_Task.csprojResolveAssemblyReference.cache
+D:\Работа\Test_Task\Test_Task\obj\Debug\Test_Task.exe
+D:\Работа\Test_Task\Test_Task\obj\Debug\Test_Task.pdb
